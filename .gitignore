@@ -1,0 +1,4 @@
+push.command
+__pycache__/
+*.pyc
+.env
