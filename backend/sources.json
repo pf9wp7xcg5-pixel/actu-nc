@@ -1,11 +1,13 @@
 [
-  {"id": "radiococotier", "name": "Radio Cocotier",              "tag": "politique", "url": "https://radiococotier.nc/feed"},
-  {"id": "lnc",           "name": "Les Nouvelles Calédoniennes", "tag": "politique", "url": "https://www.lnc.nc/rss.xml"},
-  {"id": "voixducaillou", "name": "La Voix du Caillou",         "tag": "politique", "url": "https://voixducaillou.nc/feed"},
-  {"id": "dnc",           "name": "Demain NC",                  "tag": "politique", "url": "https://www.dnc.nc/feed"},
-  {"id": "noumeapost",    "name": "Nouméa Post",                "tag": "politique", "url": "https://noumeapost.nc/feed"},
-  {"id": "gouvnc",        "name": "Gouvernement NC",            "tag": "politique", "url": "https://gouv.nc/actualites/rss.xml"},
-  {"id": "neotech",       "name": "NeoTech NC",                 "tag": "tech",      "url": "https://neotech.nc/feed"},
-  {"id": "lnceco",        "name": "LNC Économie",               "tag": "eco",       "url": "https://www.lnc.nc/economie/rss.xml"},
-  {"id": "lncpolitique",  "name": "LNC Politique",              "tag": "politique", "url": "https://www.lnc.nc/politique/rss.xml"}
+  {"id": "radiococotier",  "name": "Radio Cocotier",              "tag": "politique", "url": "https://radiococotier.nc/feed"},
+  {"id": "lnc",            "name": "Les Nouvelles Calédoniennes", "tag": "politique", "url": "https://www.lnc.nc/rss.xml"},
+  {"id": "voixducaillou",  "name": "La Voix du Caillou",         "tag": "politique", "url": "https://voixducaillou.nc/feed"},
+  {"id": "dnc",            "name": "Demain NC",                  "tag": "politique", "url": "https://www.dnc.nc/feed"},
+  {"id": "noumeapost",     "name": "Nouméa Post",                "tag": "politique", "url": "https://noumeapost.nc/feed"},
+  {"id": "gouvnc",         "name": "Gouvernement NC",            "tag": "politique", "url": "https://gouv.nc/actualites/rss.xml"},
+  {"id": "nc1ere",         "name": "NC 1ère",                    "tag": "politique", "url": "https://la1ere.francetvinfo.fr/nouvelle-caledonie/rss"},
+  {"id": "provincesud",    "name": "Province Sud",               "tag": "politique", "url": "https://www.province-sud.nc/actus/feed/"},
+  {"id": "neotech",        "name": "NeoTech NC",                 "tag": "tech",      "url": "https://neotech.nc/feed"},
+  {"id": "lnceco",         "name": "LNC Économie",               "tag": "eco",       "url": "https://www.lnc.nc/economie/rss.xml"},
+  {"id": "lncpolitique",   "name": "LNC Politique",              "tag": "politique", "url": "https://www.lnc.nc/politique/rss.xml"}
 ]
